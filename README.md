@@ -2,4 +2,4 @@
 Welcome 
 
 ## Module Help Documents
-(Organization Management)[hrsp.com.tr]
+(Organization Management)[https://hrsp.com.tr]
